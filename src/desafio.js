@@ -1,7 +1,7 @@
 //Nome e XP
 
 let nome = "MaveStein"
-let xp = 5000
+let xp = 2000
 
 
 const texto1 = "Olá invocador, "
