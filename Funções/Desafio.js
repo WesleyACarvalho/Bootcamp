@@ -15,7 +15,6 @@ const Text1 = "O Herói tem de saldo de "
 const Text2 = "está no nível de "
 
 
-//console.log (somatorio)
 
 function
 soma(numA, numB){
@@ -30,7 +29,7 @@ else if
 
 (Resultado <= 20) 
 console.log("O Herói tem de saldo de "+Resultado+" está no nível de Bronze")
-else if
+else if 
 (Resultado <= 50) 
 console.log("O Herói tem de saldo de "+Resultado+" está no nível de Prata")
 else if
