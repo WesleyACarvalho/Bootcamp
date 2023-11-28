@@ -16,7 +16,6 @@ let Guerreiro = new tipo ("Guerreiro","Espada")
 let Monge = new tipo ("Monge","Artes Marciais")
 let Ninja = new tipo ("Ninja","Shuriken")
 
-
 Mago.ataque()
 Guerreiro.ataque()
 Monge.ataque()
